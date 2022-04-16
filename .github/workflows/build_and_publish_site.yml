@@ -1,5 +1,7 @@
 ## this workflow build and publish the Hugo website
 
+name: 'Build and Publish hugo website'
+
 on:
   push:
     branches:
